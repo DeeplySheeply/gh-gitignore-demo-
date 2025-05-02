@@ -1,0 +1,9 @@
+# ignore a single file
+demofile.txt
+
+# ignore all files within the 'build' folder
+build/
+
+# ignore all files that 
+*.log
+
